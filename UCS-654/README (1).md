@@ -41,8 +41,8 @@
 
 ### 1️⃣ Clone the Studio
 ```bash
-git clone https://github.com/Atishay3825/Assignment_Mashup.git
-cd Assignment_Mashup
+git clone https://github.com/Chaitanyachouhan/UCS-654.git
+cd UCS-654
 ```
 
 ### 2️⃣ Install Dependencies
